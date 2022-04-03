@@ -5,3 +5,5 @@
 4) `git add . && git commit -am "Initial commit"`
 5) `git push -u origin master`
 
+Задание провалено !:(
+
